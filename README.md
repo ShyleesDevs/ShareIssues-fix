@@ -27,7 +27,7 @@ I encountered a connection error while trying to connect to the database using t
 6. Restart application: Sometimes, a restart of the application can resolve connection issues. Try restarting the application and reconnecting to the database.
 7. Test with a different database client: If the above steps don't work, try connecting to the database using a different client or library to isolate the issue.
 
-**Sample Issue 2: NullPointerException when Accessing an Object**
+## Sample Issue 2: NullPointerException when Accessing an Object**
 
 **Issue Description:** I encountered a `NullPointerException` when trying to access an object's method. The error message I received was: "java.lang.NullPointerException at com.example.MyClass.myMethod(MyClass.java:15)."
 
@@ -49,7 +49,7 @@ myObject.myMethod();
 
 4. Debugging: If the issue persists, use a debugger to step through the code and observe the state of the object and its variables at runtime. This can help identify the root cause of the `NullPointerException`.
 
-**Sample Issue 3: Styling Error in CSS**
+## Sample Issue 3: Styling Error in CSS**
 
 **Issue Description:** The text on my webpage isn't aligned properly. The CSS property `text-align: center;` doesn't seem to work.
 
