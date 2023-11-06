@@ -10,6 +10,8 @@ Welcome to the repository issue tracker! This is where you can share any issues 
 4. Describe the steps taken to fix the issue: Document the exact steps you took to fix the issue. Include any code changes, configuration adjustments, or debugging techniques you used. Be as thorough as possible to help others replicate your solution.
 5. Submit a pull request: Once you have resolved the issue, submit a pull request to merge your changes into the main repository. Reference the issue number in the pull request description to link it to your contribution.
 
+**Here are some sample of issues given that will help you get an idea.** 
+
 ## Sample Issue 1: Connection Error with Database
 
 **Issue Description:**
