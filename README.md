@@ -1,11 +1,11 @@
 # Repository Issue Tracker
 
-Welcome to the repository issue tracker! This is where you can share any issues you have encountered during your work and the steps you took to resolve them. By contributing to this repository, you will not only help others understand and solve similar issues, but also create a valuable resource for troubleshooting and problem-solving.
+Welcome to the repository issue tracker! This is where you can share any issues you have encountered during your work and the steps you took to resolve them. By contributing to this repository, you will not only help others understand and solve similar issues but also create a valuable resource for troubleshooting and problem-solving.
 
 ## How to Contribute
 
 1. Fork the repository: Start by forking this repository to your own GitHub account.
-2. Create a new issue: If you encounter an issue while working on a project, create a new issue in this repository. Provide a descriptive title and detailed description of the issue, including any error messages or unexpected behavior you encountered.
+2. Create a new issue: If you encounter an issue while working on a project, create a new issue in this repository. Provide a descriptive title and detailed description of the problem, including any error messages or unexpected behaviour you encountered.
 3. Provide relevant resources: If you found any helpful resources, such as blog posts, Stack Overflow answers, or official documentation, include them in the issue description. This will assist others in understanding the problem and finding a solution faster.
 4. Describe the steps taken to fix the issue: Document the exact steps you took to fix the issue. Include any code changes, configuration adjustments, or debugging techniques you used. Be as thorough as possible to help others replicate your solution.
 5. Submit a pull request: Once you have resolved the issue, submit a pull request to merge your changes into the main repository. Reference the issue number in the pull request description to link it to your contribution.
@@ -20,7 +20,7 @@ I encountered a connection error while trying to connect to the database using t
 
 **Steps to Fix:**
 1. Check database credentials: Verify that the database credentials in the configuration file are correct.
-2. Ensure database server is running: Make sure the database server is up and running.
+2. Ensure the database server is running: Make sure the database server is up and running.
 3. Check network connectivity: Confirm that the machine running the code can reach the database server. Ping the server IP address or domain to check for connectivity issues.
 4. Firewall settings: Ensure that the firewall settings allow traffic to the database server on the appropriate port.
 5. Check library dependencies: Verify that all required dependencies for the XYZ library are installed and up to date.
